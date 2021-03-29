@@ -353,8 +353,8 @@
 	],
 	"Maps": [{
       "id":1,
-      "nama_map":"MAP Little Nightmares",
-      "map_url":"https://raw.githubusercontent.com/bro-cell/modpriday/main/Little%20Nightmares%20GUI%20v2.zip",
+      "nama_map":"MAP Friday Night Funkin",
+      "map_url":"https://raw.githubusercontent.com/bro-cell/modpriday/main/Friday%20Night%20Funkin.zip",
       "view_map":"https://my.mcpedl.com/storage/texturepacks/3302/images/little-nightmares-gui_2.png",
       "des_map":"https://raw.githubusercontent.com/bro-cell/modpriday/main/map.html"
     },
